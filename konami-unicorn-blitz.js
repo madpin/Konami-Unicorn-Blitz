@@ -8,7 +8,7 @@
 */
 var Konami = {
 	/* Set this to whatever path (relative or absolute) where your images are stored. */
-	imagePath: 'http://github.com/jmhobbs/Konami-Unicorn-Blitz/raw/master/',
+	imagePath: 'https://cdn.rawgit.com/jmhobbs/Konami-Unicorn-Blitz/master/',
 	/* You need to have all of your images in the same format, numbered starting at 1 */
 	imageCount: 4,
 	imageFormat: '.gif',
